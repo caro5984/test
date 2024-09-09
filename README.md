@@ -1,5 +1,3 @@
-# Sprint Projekt
+# Layout med Flexbox
 
-##fed
-
-Her finder du vores sprintprojekt ....
+Øvelse i klassen.
